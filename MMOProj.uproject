@@ -1,6 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.16",
+	"EngineAssociation": "{9D2C2697-47A9-BAEB-D7AE-3494B169A7C2}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MMOProj",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
